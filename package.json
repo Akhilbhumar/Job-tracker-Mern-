@@ -1,6 +1,5 @@
-// package.json
 {
-  "name": "my-vite-app",
+  "name": "job-tracker-mern",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -9,7 +8,6 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "dependencies": {},
   "devDependencies": {
     "vite": "^5.0.0"
   }
